@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Clockiscool1234",
+  "repo": "container-zeftkom",
+  "name": "Clockiscool1234",
+  "email": "wiqowiqo15@gmail.com",
+}
